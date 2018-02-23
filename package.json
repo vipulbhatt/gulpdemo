@@ -1,0 +1,19 @@
+{
+  "name": "gulp-demo-task",
+  "version": "1.0.0",
+  "description": "gulp for css, image, js minify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vipul",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
